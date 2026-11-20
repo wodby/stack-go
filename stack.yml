@@ -2,6 +2,7 @@ name: go
 icon: go
 docs: https://wodby.com/docs/2.0/stacks/catalog/go/
 title: Go
+category: runtimes
 
 services:
 - name: go
